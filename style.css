@@ -102,6 +102,16 @@ footer{
     text-align: center;
     font-weight: bolder;
 }
+a {
+    color: white !important;
+    text-decoration: none;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: white !important;
+}
 
 /* Estilos para pantallas medianas (por ejemplo, tablets) */
 @media (min-width: 768px) {
