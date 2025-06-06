@@ -102,16 +102,6 @@ footer{
     text-align: center;
     font-weight: bolder;
 }
-a {
-    color: white !important;
-    text-decoration: none;
-}
-
-a:hover,
-a:active,
-a:focus {
-    color: white !important;
-}
 
 /* Estilos para pantallas medianas (por ejemplo, tablets) */
 @media (min-width: 768px) {
@@ -132,3 +122,24 @@ a:focus {
     font-size: 22px;
   }
 }
+a {
+    color: black !important;
+    text-decoration: none;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: black !important;
+}
+.nav-item a {
+    color: white !important;
+    text-decoration: none;
+}
+
+.nav-item a:hover,
+.nav-item a:active,
+.nav-item a:focus {
+    color: white !important;
+}
+

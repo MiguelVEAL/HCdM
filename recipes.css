@@ -133,3 +133,29 @@ td{
     font-size: 22px;
   }
 }
+
+
+.nav-item a {
+    color: white !important;
+    text-decoration: none;
+}
+
+.nav-item a:hover,
+.nav-item a:active,
+.nav-item a:focus {
+    color: white !important;
+}
+
+
+
+
+a {
+    color: black !important;
+    text-decoration: none;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: black !important;
+}
